@@ -1,6 +1,6 @@
 # ☮ Natural Vibes Blog ⚘
 
-![Natural Vibes Blog](iamkuff.github.io/NaturalVibesBlog/)
+Natural Vibes Blog](iamkuff.github.io/NaturalVibesBlog/)
 
 A groovy, retro-styled blog template inspired by early 2000s web design and hippie culture. Built with pure HTML and CSS, this template brings back the nostalgic feeling of old-school blogging while spreading peace, love, and natural vibes! ✌️
 
