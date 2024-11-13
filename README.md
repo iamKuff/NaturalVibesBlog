@@ -133,14 +133,6 @@ Spread peace and love by:
 * 🐛 Reporting bugs with positive vibes
 * 💡 Suggesting enhancements with kindness
 
----
-
-<div align="center">
-  <p>Made with 💚 and ☮️</p>
-  <p>Copyright © 2024 Natural Vibes Blog</p>
-</div>
-```
-
 Would you like me to add anything else to the README? Perhaps:
 1. More detailed customization instructions?
 2. Additional setup configurations?
